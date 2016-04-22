@@ -1,0 +1,30 @@
+body {
+	margin-top: 2em;
+}
+
+#app-header {
+	padding: 0;
+	margin: 0;
+}
+
+.app-data {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+#results .row {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#results .row:nth-child(2n) {
+	background: rgba(238,238,238,0.8);
+}
+
+.tw-image {
+	padding-top: 5px;
+}
+
+.footer-content {
+    margin: 30px auto;
+    text-align: center;
+}
